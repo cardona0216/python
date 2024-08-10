@@ -1,6 +1,6 @@
 #tipos de datos
 
-# tipo srt(strting) texto o cadena de caracteres
+# tipo srt(string) texto o cadena de caracteres
 
 comillasSimples= 'este es un texto'
 comillasDobles = "este es un texto"
@@ -11,11 +11,9 @@ comillasTriplesSimples = '''este es un texto'''
 numero_entero = 2
 
 #float(decimal)
-
 numero_decimal = 3.14
 
 #complex: representa un numero complejo( parte entera y parte imaginaria)
-
 numero_complejo = 5 + 2j
 
 #list[]: coleccion ordenada(cada elemento va a ir ordenado va a tener un indice) y mutable de elementos
@@ -43,7 +41,7 @@ diccionario = {
 
 #set{}: coleccion desordenada de elementos unicos y mutables
 
-conjunto = {1,1,1,2,2,3,3,3,4,4,4,4,4}
+conjunto = {1,1,1,2,2,3,3,3,4,4,4,4,4, 5,5,5}
 
 print(conjunto)
 
